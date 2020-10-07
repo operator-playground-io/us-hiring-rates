@@ -1,0 +1,21 @@
+{
+  "title": "US Hiring Rates",
+  "description": "This dataset provides daily updates on the volume of US job listings",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "S3"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "us_hiring_rates_s3_dataset",
+  "type": "Dataset",
+  "categories": [
+    "Employment"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "3 minutes",
+  "isStacksSaved": true
+}

@@ -1,0 +1,17 @@
+{
+  "name": "US Hiring Rates Tutorial",
+  "appLayout": "accordion",
+  "appTheme": "g90",
+  "footer": "footer.md",
+  "tutorials": [
+    {
+      "description": "This dataset provides daily updates on the volume of US job listings",
+      "duration": "5 minutes",
+      "tutorial_name": "us_hiring_rates.md",
+      "title": "US Hiring Rates"
+    }
+  ],
+  "usefulLinks": [],
+  "demos": [],
+  "isTutorialSaved": true
+}

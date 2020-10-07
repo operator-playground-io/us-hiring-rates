@@ -1,0 +1,3 @@
+# Covid Job Impacts - US Hiring Data Since March 1 2020
+
+This dataset provides daily updates on the volume of US job listings filtered by geography industry job family and role; normalized to pre-covid levels.These data files feed the business intelligence visuals at covidjobimpacts.greenwich.hr, a public-facing site hosted by Greenwich.HR and OneModel Inc. Data is derived from online job listings tracked continuously, calculated daily and published nightly. On average data from 70% of all new US jobs are captured, and the dataset currently contains data from 3.3 million hiring organizations.Data for each filter segment is represented as the 7-day average of new job listings for a specific date, expressed as a percentage of the corresponding value on March 1, 2020.

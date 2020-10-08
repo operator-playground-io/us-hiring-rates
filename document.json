@@ -10,12 +10,13 @@
   ],
   "platform": "Kubernetes",
   "cover": "cover.md",
-  "commands": [
+  "commands": [ 
     {
       "description": "Get Dataset",
-      "exec": "cd /home/student/bucket && mkdir greenwichhr-covidjobimpacts && goofys greenwichhr-covidjobimpacts /home/student/bucket/greenwichhr-covidjobimpacts"
+      "exec": "cd /home/student/bucket"
     }
   ],
+  "buckets": [ "greenwichhr-covidjobimpacts" ],
   "display": [
     {
       "name": "Developer Dashboard",

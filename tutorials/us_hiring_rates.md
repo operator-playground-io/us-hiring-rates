@@ -5,19 +5,19 @@ description: This dataset provides daily updates on the volume of US job listing
 
 ### Resources on AWS
 
-* Description
+* Description:
 ​
 ​       Greenwich.HR daily US hiring data (normalized to March 1 2020)
 ​
-- Resource type
+- Resource type:
 ​
   S3 Bucket
 ​
-- Amazon Resource Name (ARN)
+- Amazon Resource Name (ARN):
 ​
   `arn:aws:s3:::greenwichhr-covidjobimpacts`
 ​
-- AWS Region
+- AWS Region:
 ​
   `us-east-2`
 

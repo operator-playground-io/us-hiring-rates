@@ -24,15 +24,15 @@
       "enabled": true
     }
   ],
-  "tag": [
-    "S3"
-  ],
   "meta": {
     "Install time": [
       "3 minutes"
     ],
     "Type": [
       "Dataset-S3"
+    ],
+    "Tag": [
+      "S3"
     ],
     "categories": [
       "Employment"

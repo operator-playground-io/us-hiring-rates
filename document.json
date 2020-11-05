@@ -13,7 +13,7 @@
   "commands": [ 
     {
       "description": "Get Dataset",
-      "exec": "cd /home/student/bucket"
+      "exec": "cd /home/student/projects"
     }
   ],
   "buckets": [ "greenwichhr-covidjobimpacts" ],

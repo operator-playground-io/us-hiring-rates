@@ -24,6 +24,9 @@
       "enabled": true
     }
   ],
+  "tag": [
+    "S3"
+  ],
   "meta": {
     "Install time": [
       "3 minutes"

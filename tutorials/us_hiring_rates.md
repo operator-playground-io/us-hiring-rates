@@ -11,7 +11,7 @@ description: This dataset provides daily updates on the volume of US job listing
 ​
 - Resource type:
 ​
-  S3 Bucket
+​       S3 Bucket
 ​
 - Amazon Resource Name (ARN):
 ​
